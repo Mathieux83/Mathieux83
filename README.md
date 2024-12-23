@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 Here are some of my notable projects:
 
-### Ytap (https://github/Mathieux83/Ytap)
+### Ytap (https://github/Mathieux83.com/Ytap)
 - **Description:** Simple CLI in Python for youtube with api.
 - **Technologies:** Youtube_API, Python.
 
