@@ -1,4 +1,4 @@
-# Hi there, I'm Mathieux83 👋
+# Hi there, I'm Star-Lore 👋
 
 Welcome to my GitHub profile!
 
@@ -25,11 +25,6 @@ Here are some of my notable projects:
 
 ## GitHub Stats
 
-![Mathieux83's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathieux83&show_icons=true&theme=radical)
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathieux83&show_icons=true&theme=radical)
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech.
