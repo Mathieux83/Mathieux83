@@ -1,4 +1,4 @@
-# Hi there, I'm Star-Lore 👋
+# Hi there, I'm Star-Lore 👋 [FR]
 
 Welcome to my GitHub profile!
 
@@ -17,7 +17,9 @@ Welcome to my GitHub profile!
 
 ## Projects
 
-Here are some of my notable projects:
+### Meteo-Weather (https://github.com/Mathieux83/Meteo-Weather)
+- **Description:** Python app with API
+- **Technologies:** 
 
 ### Ytap (https://github.com/Mathieux83/Ytap)
 - **Description:** Simple CLI in Python for youtube with api.
@@ -26,5 +28,3 @@ Here are some of my notable projects:
 ## GitHub Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathieux83&show_icons=true&theme=radical)
-
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech.
