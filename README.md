@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 - 🚀 Passionate about coding and technology.
 - 🎓 Lifelong learner with a keen interest in software development.
 - 🌍 Love collaborating on open-source projects.
-- 💼 Currently working on Ytap.
+- 💼 Currently working on Secret Project.
 
 ## Skills
 
