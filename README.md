@@ -42,7 +42,8 @@ Mon parcours est axé sur le développement web, les systèmes embarqués, et bi
 
 ## ☕ Me soutenir
 
-[![Soutenez-moi sur Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Mathieux83/donate)
+- [![Soutenez-moi sur Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Mathieux83/donate)
+- <img src="https://img.shields.io/liberapay/receives/StarLore.svg?logo=liberapay">
 
 ---
 
