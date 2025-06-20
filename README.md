@@ -12,18 +12,17 @@ Mon parcours est axé sur le développement web, les systèmes embarqués, et bi
   - Python
   - HTML/CSS
   - C/C++
+  - Etc..
   
 - 🚀 **Technologies et outils :**
   - Node.js
   - React
   - Express.js
-  - Git / GitHub
-  - Docker
   - Linux
+  - Etc..
 
 - 🎮 **Loisirs et autres compétences :**
   - Jeux vidéo
-  - Électronique et prototypage (Arduino)
   - Automatisation (scripts, APIs)
   - Cybersécurité
   - PenTest
@@ -41,19 +40,17 @@ Mon parcours est axé sur le développement web, les systèmes embarqués, et bi
 
 ---
 
+## ☕ Me soutenir
+
+[![Soutenez-moi sur Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Mathieux83/donate)
+
+---
+
 ## 📣 Me contacter
 
 - [LinkedIn](https://www.linkedin.com/in/mathieux-carpentier)
 - [Discord](https://www.discordapp.com/users/480428304390684704)
 - [Email](mailto:car.math@live.fr)
-
----
-
-## 🎯 Objectifs actuels
-
-- Apprendre encore plus sur **Python** et **JavaScript**.
-- Développer des projets open-source et collaborer avec la communauté.
-- Explorer le monde du **Machine Learning** et de l'**Intelligence Artificielle**.
 
 ---
 
