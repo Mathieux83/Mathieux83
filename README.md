@@ -4,7 +4,7 @@
 
 >[!Note]
 >Je suis un passionné de développement, de technologies et de tout ce qui touche à l'innovation. Mon parcours est axé sur le développement web, les systèmes embarqués, et bien d'autres domaines encore !
->![](https://komarev.com/ghpvc/?username=Mathieux83&abbreviated=true&color=red&style=for-the-badge)
+
 
 
 
@@ -32,7 +32,7 @@
   - CTF
   
 
-## [Portfolio 💼](https://mathieux-portfolio.vercel.app/)
+## [💼 Portfolio](https://mathieux-portfolio.vercel.app/)
 
 Vous pouvez retrouver mon portfolio en suivant ce [lien](https://mathieux-portfolio.vercel.app/) ou en cliquant directement sur **"Portfolio 💼"** juste au dessus.
 
@@ -63,14 +63,11 @@ Vous pouvez retrouver mon portfolio en suivant ce [lien](https://mathieux-portfo
 - [Email](mailto:car.math@icloud.com)
 
 
-## GitHub Stats
+## 🧩 My GitHub Stats
 
-![My GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Mathieux83&show_icons=true&theme=material-palenight&include_all_commits=false&count_private=true)
+<p><img src="https://komarev.com/ghpvc/?username=Mathieux83&abbreviated=true&color=red&style=for-the-badge"></p>
+<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mathieux83&show_icons=true&theme=material-palenight&include_all_commits=false&count_private=true"><p/>
+<p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=mathieux83&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="mathieux83"></p>
 
-<img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=mathieux83&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="mathieux83" />
-
----
-
-Si tu veux plus d'infos ou discuter de projets en commun, n'hésite pas à me contacter !
 
 
