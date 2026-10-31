@@ -39,11 +39,8 @@ Vous pouvez retrouver mon portfolio en suivant ce [lien](https://mathieux-portfo
 
 ## 🔧 Projets
 
-- **[ListMe](https://listme.fr)**
-  Web-App PWA de Liste de courses, avec une phase cours de DEV pour la version 2.0 \
-  
-- **[GigiHesse2.1](https://gigihesse.com)**  
-  Projet pro pourun client.
+- **[Tor-Rotate](https://github.com/Mathieux83/Tor-Rotate)**  
+  Script qui change l'ip toutes les 10 seocndes via proxy Tor
 
 - **[Ytap](https://github.com/Mathieux83/Ytap)**  
   Une app python linux et maintenant Windows pour ecouter de la musique via le terminal.
@@ -52,8 +49,6 @@ Vous pouvez retrouver mon portfolio en suivant ce [lien](https://mathieux-portfo
 ## ☕ Me soutenir
 
 - [![Paypal](https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg)](https://www.paypal.com/donate/?hosted_button_id=WR84RSGZ8HHQL&sdkMeta=eyJ1cmwiOiJodHRwczovL3d3dy5wYXlwYWxvYmplY3RzLmNvbS9kb25hdGUvc2RrL2RvbmF0ZS1zZGsuanMiLCJhdHRycyI6eyJkYXRhLXVpZCI6InVpZF9wb2t1aW9tbmJnc293cGhpc2F1Z2VianVpb21iamsifX0&targetMeta=eyJ6b2lkVmVyc2lvbiI6IjlfMF81OCIsInRhcmdldCI6IkRPTkFURSIsInNka1ZlcnNpb24iOiIwLjkuMCJ9)
-- [![Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Mathieux83/donate)
-- <img src="https://img.shields.io/liberapay/receives/StarLore.svg?logo=liberapay">
 
 
 ## 📣 Me contacter
