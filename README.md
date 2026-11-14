@@ -1,30 +1,28 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hey%20Everyone!%F0%9F%95%B9%EF%B8%8F&reversal=false&fontAlignY=50&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hey%20Everyone!%F0%9F%95%B9%EF%B8%8F&reversal=false&fontAlignY=50&animation=fadeIn"/>
 </p>
 
 >[!Note]
->Je suis un passionné de développement, de technologies et de tout ce qui touche à l'innovation. Mon parcours est axé sur le développement web, les systèmes embarqués, et bien d'autres domaines encore !
-
-
+>I'm passionate about development, technology, and everything related to innovation. My background focuses on web development, embedded systems, and many other areas as well!
 
 
 ## 🛠️ Mes compétences
 
-- 💻 **Langages de programmation :**
+- 💻 **Programming language :**
   - JavaScript
   - Python
   - HTML/CSS
   - C/C++
   - Etc..
   
-- 🚀 **Technologies et outils :**
+- 🚀 **Tech and Tools :**
   - Node.js
   - React
   - Express.js
   - Linux
   - Etc..
 
-- 🎮 **Loisirs et autres compétences :**
+- 🎮 **Hobbies and Other Skills :**
   - Jeux vidéo
   - Automatisation (scripts, APIs)
   - Cybersécurité
@@ -39,11 +37,14 @@ Vous pouvez retrouver mon portfolio en suivant ce [lien](https://mathieux-portfo
 
 ## 🔧 Projets
 
+- **[Anime-Sama-cli-api](https://github.com/Mathieux83/anime-sama_api)**  
+  Up-to-date fork for anime-sama cli downloader.
+
 - **[Tor-Rotate](https://github.com/Mathieux83/Tor-Rotate)**  
-  Script qui change l'ip toutes les 10 seocndes via proxy Tor
+  Script that changes the IP address every 10 seconds via a Tor proxy.
 
 - **[Ytap](https://github.com/Mathieux83/Ytap)**  
-  Une app python linux et maintenant Windows pour ecouter de la musique via le terminal.
+  Very lightweight Python app for Linux and Windows for listening to music via the terminal.
 
 
 ## ☕ Me soutenir
